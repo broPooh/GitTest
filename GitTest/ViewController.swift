@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         print("Hello")
         print("Hello wordl!")
         print("Bye")
+        print("RemoteTest")
     }
 
 
